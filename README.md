@@ -3,6 +3,12 @@
 [대한전기학회](http://www.kiee.or.kr/), [Mathworks Korea](https://kr.mathworks.com/), [광운대학교](https://www.kw.ac.kr/ko/) 가 공동 주최한 
 [__2020 미니드론 자율주행 경진대회__ ](https://www.facebook.com/ImDrone) 리그 A 에 참가한 MATH 꺼워 팀의 최종 코드 설명문입니다. 
 
+## 대회 결과
+은상과 기술발표상을 수상했습니다. 
+
+[본선 대회 주행 영상](https://youtu.be/wKdZOwvq3F0?t=5487)
+
+
 ## 목차
 
 1. 텔로 드론 소개 
